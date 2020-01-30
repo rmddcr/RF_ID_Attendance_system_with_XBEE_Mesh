@@ -1,0 +1,8 @@
+About 10m good reception
+
+0 -1m - good reception
+1-5m  - good reception
+5-10 - good reception
+10-15m - some data loss occured
+
+Need a overlay connection oriented protocol like TCP in order to keep a reliable connection
