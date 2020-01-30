@@ -1,4 +1,4 @@
-# RF_ID_Attendance_system_with_XBEE_Mesh
+# RF ID Attendance system with XBEE_Mesh
 Prototype RF_ID attendance monitoring  system build using the  Arduino , 
 Ada-fruit RF_ID reader and Xbee mesh with built in encription
 
